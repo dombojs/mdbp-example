@@ -1,0 +1,9 @@
+{
+  "dependencies": {
+    "dombojs/boot": "*",
+    "suitcss/suit": "*",
+    "suitcss/grid-layouts": "*",
+    "dombojs/ui-test": "*",
+    "dombojs/css-test-14a": "*"
+  }
+}

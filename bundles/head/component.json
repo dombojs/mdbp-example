@@ -1,0 +1,7 @@
+{
+    "name": "head",
+    "repo": "bundle/head",
+    "globals": [
+        "html5shiv.js"
+    ]
+}
