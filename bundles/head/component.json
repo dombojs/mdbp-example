@@ -2,6 +2,7 @@
     "name": "head",
     "repo": "bundle/head",
     "globals": [
+        "foucfix.js",
         "html5shiv.js"
     ]
 }
