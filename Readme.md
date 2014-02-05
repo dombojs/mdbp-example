@@ -25,3 +25,5 @@
   Run build process
 
     $ mdbp run
+
+Open `app/example/test.mdbp.html` to view the result
