@@ -1,0 +1,21 @@
+{
+  "name": "css-test-14a",
+  "repo": "dombojs/css-test-14a",
+  "description": "test theme",
+  "version": "0.0.1",
+  "license": "MIT",
+  "keywords": [
+    "mdbp"
+  ],
+  "styles": [
+    "test.css"
+  ],
+  "images": [
+    "test.png"
+  ],
+  "fonts": [
+    "test.eot",
+    "test.ttf",
+    "test.woff"
+  ]
+}

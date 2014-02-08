@@ -1,0 +1,18 @@
+{
+  "name": "dombo",
+  "repo": "dombojs/dombo",
+  "description": "more jqueryishness for component/dom (to be used with SUIT)",
+  "version": "0.0.1",
+  "keywords": [],
+  "dependencies": {
+    "component/dom": "*",
+    "adamsanderson/trigger-event": "*",
+    "gorillatron/extend": "*"
+  },
+  "development": {},
+  "license": "MIT",
+  "main": "index.js",
+  "scripts": [
+    "index.js"
+  ]
+}

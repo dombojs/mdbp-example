@@ -1,0 +1,20 @@
+{
+  "name": "ui-test",
+  "repo": "dombojs/ui-test",
+  "description": "test module",
+  "version": "0.0.1",
+  "keywords": [
+    "mdbp"
+  ],
+  "dependencies": {
+    "dombojs/ui": "*"
+  },
+  "license": "MIT",
+  "main": "index.js",
+  "scripts": [
+    "index.js"
+  ],
+  "styles": [
+    "style.css"
+  ]
+}

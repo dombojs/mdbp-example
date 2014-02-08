@@ -1,0 +1,15 @@
+{
+  "name": "boot",
+  "repo": "dombojs/boot",
+  "description": "dombo data-js boot and SUIT base",
+  "version": "0.0.1",
+  "dependencies": {
+    "dombojs/dom-js-chains": "*",
+    "suitcss/base": "*"
+  },
+  "license": "MIT",
+  "main": "index.js",
+  "scripts": [
+    "index.js"
+  ]
+}
